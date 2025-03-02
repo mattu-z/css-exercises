@@ -1,0 +1,25 @@
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
+.meow {
+    color: red;
+    background-color: aqua;
+    font-weight: bolder;
+    font-size: 100px;
+}
+.mreow {
+    color: yellow;
+    background-color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+.MREOW {
+    color: red;
+    background-color: aqua;
+    font-weight: bolder;
+    font-size: 100px;
+}
